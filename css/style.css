@@ -125,7 +125,7 @@
 .tick_marks > div {
 	border-left: #636363 1px solid;
 	opacity: 0.3;
-	height: 375px;
+	height: 280px;
 	width: 0px;
 	float: left;
 	margin-left: 112px;
@@ -141,7 +141,7 @@
 	z-index: 9;
 }
 
-.years > p { /* CSS styles for the years */
+.years > div { /* CSS styles for the years */
 	width: 113px;
 	height: 10px;
 	font-family: Georgia;
@@ -154,7 +154,7 @@
 	width: 790px;
 	height: 150px;
 	position: absolute;
-	top: 382px;
+	top: 290px;
 	left: 170px;
 }
 
@@ -162,7 +162,7 @@
 
 .year_desc_cell { /* CSS Styles for the bottom paragraphs */
 	width: 112.8px;
-	height: 150px;
+	height: 245px;
 	font-family: Georgia;
 	font-size: 10px;
 	line-height: 15px;
